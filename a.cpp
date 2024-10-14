@@ -22,7 +22,7 @@ int main()
     int vA[] = { 4, -2, 3 };
     int vB[] = { 1, 3, 7 };
 
-    cout << "Dot product:";
+    cout << "Dot product: Changing this in master: ";
     cout << dotProduct(vA, vB) << endl;
 
 }
