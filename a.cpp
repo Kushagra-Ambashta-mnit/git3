@@ -22,6 +22,6 @@ int main()
     int vB[] = { 1, 3, 7 };
     cout << dotProduct(vA, vB) << endl;
 
-	cout << "ola"; 
+	cout << "ola in spanish"; 
 }
 
