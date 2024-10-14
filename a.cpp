@@ -18,12 +18,8 @@ int dotProduct(int vA[], int vB[])
 
 int main()
 {
-
     int vA[] = { 4, -2, 3 };
     int vB[] = { 1, 3, 7 };
-
-    cout << "Dot product is actually equal to = ";
     cout << dotProduct(vA, vB) << endl;
-
 }
 
