@@ -21,5 +21,6 @@ int main()
     int vA[] = { 4, -2, 3 };
     int vB[] = { 1, 3, 7 };
     cout << dotProduct(vA, vB) << endl;
+    cout << "hello" << endl;
 }
 
